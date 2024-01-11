@@ -10,7 +10,7 @@
 
       <div class="info-icon-wrapper">
         <!-- <i class="fa-solid fa-star" style="font-size: 24px"></i> -->
-        <i class="fa-solid fa-plus" style="font-size: 24px"></i>
+        <!-- <i class="fa-solid fa-plus" style="font-size: 24px"></i> -->
       </div>
     </nav>
   </header>
@@ -22,7 +22,7 @@ import { RouterLink } from "vue-router";
 
 <style scoped>
 header {
-  position: sticky;
+  /* position: sticky; */
   top: 0;
   background-color: #00668a;
 }
